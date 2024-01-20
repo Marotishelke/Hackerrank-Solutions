@@ -2,7 +2,7 @@
 
 Welcome to my Hackerrank solutions repository! Here you'll find my Python, SQL, and Java solutions organized by language and category.
 
-<img src="image/hacker-rank dashboard.png" alt="Dashboard 1">
+<img src="image/hacker-rank dashboard.png" alt="Dashboard 1" width=200>
 
 ## Categories
 
